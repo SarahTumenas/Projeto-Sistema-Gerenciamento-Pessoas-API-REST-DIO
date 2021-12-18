@@ -12,7 +12,7 @@ public class PersonUtils {
     private static final String LAST_NAME = "Silva";
     private static final String CPF_NUMBER = "369.333.878-79";
     private static final long PERSON_ID = 1L;
-    public static final LocalDate BIRTH_DATE = LocalDate.of(2001, 06, 28);
+    public static final LocalDate BIRTH_DATE = LocalDate.of(2001, 11, 28);
 
     public static PersonDTO createFakeDTO() {
         return PersonDTO.builder()

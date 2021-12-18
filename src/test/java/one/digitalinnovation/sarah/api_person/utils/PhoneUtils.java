@@ -7,7 +7,7 @@ import one.digitalinnovation.sarah.api_person.enums.PhoneType;
 
 public class PhoneUtils {
 
-    private static final String PHONE_NUMBER = "+551199999-9999";
+    private static final String PHONE_NUMBER = "+55(11)99999-9999";
     private static final PhoneType PHONE_TYPE = PhoneType.MOBILE;
     private static final long PHONE_ID = 1L;
 
